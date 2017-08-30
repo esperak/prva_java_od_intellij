@@ -8,8 +8,6 @@ public class Main {
         System.out.println("jede jede masinka!!! 1 ");
 
 
-        Auto a = new Auto();
-        a.setSpz("BA-284-ZU");
         Auto b = new Auto();
         b.setSpz("MA-291-DPaaaaabb");
         Auto c = new Auto();
@@ -17,7 +15,7 @@ public class Main {
         Auto d = new Auto();
         d.setSpz("00-000-00");
 
-        System.out.println(a.getSpz());
+        System.out.println(b.getSpz());
 
     }
 }
