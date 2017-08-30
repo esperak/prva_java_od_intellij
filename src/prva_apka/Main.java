@@ -14,6 +14,8 @@ public class Main {
         b.setSpz("MA-291-DPaaaaabb");
         Auto c = new Auto();
         c.setSpz("PP-007-KKaa");
+        Auto d = new Auto();
+        d.setSpz("00-000-00");
 
         System.out.println(a.getSpz());
 
