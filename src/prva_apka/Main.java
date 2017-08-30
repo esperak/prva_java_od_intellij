@@ -11,7 +11,7 @@ public class Main {
         Auto a = new Auto();
         a.setSpz("BA-284-ZU");
         Auto b = new Auto();
-        b.setSpz("MA-291-DP");
+        b.setSpz("MA-291-DPaaa");
         Auto c = new Auto();
         c.setSpz("PP-007-KK");
 
